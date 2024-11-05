@@ -1,0 +1,3 @@
+/home/cat/Downloads/my_psdk/build/CMakeFiles/my_psdk.dir
+/home/cat/Downloads/my_psdk/build/CMakeFiles/edit_cache.dir
+/home/cat/Downloads/my_psdk/build/CMakeFiles/rebuild_cache.dir
